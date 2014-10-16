@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bpx:home|Door43 (bpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bpx|d43-bpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bpx/archive/master.zip|d43-bpx.zip]]
+
+**Recent Changes**
+{{changes>ns = bpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bpx|Ethnologue data]]
+
